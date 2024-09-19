@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rahul Patel",
+    "email": "rahul26patel2002@gmail.com",
+    "mobileNo": "07494962986",
+    "designation": "Manager",
+    "gender": "male",
+    "Course": "BCA",
+    "id": "0cf34160-d9a0-481c-af70-6b0fc0fabec5"
+  },
+  {
+    "id": "14a20355-b9a5-4bff-b192-9f2dfb86bffd",
+    "name": "dfgh",
+    "email": "rahupatel2002@gmail.com",
+    "mobileNo": "01234567891",
+    "designation": "Sales",
+    "gender": "female",
+    "Course": {
+      "MCA": true
+    }
+  }
+]
